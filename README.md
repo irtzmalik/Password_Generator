@@ -20,11 +20,15 @@ Enter Input
 
 Make Selection 
 ![Special Character] (https://github.com/irtzmalik/Password_Generator/blob/master/Images/g3.png)
+
 ![Numeric] (https://github.com/irtzmalik/Password_Generator/blob/master/Images/g4.png)
+
 ![UpperCase] (https://github.com/irtzmalik/Password_Generator/blob/master/Images/g5.png)
+
 ![LowerCase] (https://github.com/irtzmalik/Password_Generator/blob/master/Images/g6.png)
 
 Copy To clipboard
 
 ![CopyClick] (https://github.com/irtzmalik/Password_Generator/blob/master/Images/g7.png)
+
 ![Copied] (https://github.com/irtzmalik/Password_Generator/blob/master/Images/g8.png)
