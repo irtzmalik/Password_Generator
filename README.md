@@ -5,4 +5,20 @@ This is a password generator. It will generate password randomly on click on Gen
 
 ## Installation
 ​
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Git clone the repo on your local computer and open Index.html or use this link below
+https://irtzmalik.github.io/Password_Generator/
+
+## Usage 
+​
+Go to Index.html or https://irtzmalik.github.io/Password_Generator/
+
+Hover on & Click on Generate 
+![Generate] (https://github.com/irtzmalik/Password_Generator/blob/master/Images/G1.png)
+
+Enter Input
+
+
+Make Selection 
+
+
+Copy To clipboard
