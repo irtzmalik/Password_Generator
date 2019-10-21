@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 function rand(length,ranges) {
     var str = "";                                                       // the string (initialized to "")
     var flag = true;														// Required to make the loop complete its iteration
@@ -176,5 +176,4 @@ document.execCommand("copy");
 /* Alert the copied text */
 alert("Copied the text: " + copyText.value);
 
->>>>>>> fd9a55a4478ce6ae14712852d9460dc2653b96d3
   }
