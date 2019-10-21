@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 h1 /* setting position of h1*/
 {
 
@@ -48,55 +47,4 @@ background-color: rgb(226, 235, 228);
     text-align: center;
     font-size: 30px; 
     cursor: not-allowed;
-=======
-h1 /* setting position of h1*/
-{
-
-    text-align: center;
-    font-size: 65px;
-    margin-top: 10px;
-}
-
-body
-{
-
-background-color: rgb(226, 235, 228);
-
-}
-
-.my-content   /*setting properties of main container holding text area & Buttons*/
-{
-
-    margin-top: 57px;
-    box-shadow: -19px 1px 10px 9px rgba(0,0,0,0.28);
-    padding-bottom:10px;
-}
-
-.btn-primary:hover /*Adding color hover effect*/
-{
-        color: #fff;
-        background-color: green ;
-}
-
-.btn-primary
-{
-    background-color: maroon;
-}
-
-.text_area_border /*Adding dash styled border to text area*/
-{
-    border: 1.4px dashed;
-    
-
-}
-
-
-
-.text_area_color[readonly] /* adding background color + fixing alignment of text & stopping cursor in text field to copy password directly*/
-{
-    background-color: white;
-    text-align: center;
-    font-size: 30px; 
-    cursor: not-allowed;
->>>>>>> fd9a55a4478ce6ae14712852d9460dc2653b96d3
 }
